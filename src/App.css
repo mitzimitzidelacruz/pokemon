@@ -21,9 +21,9 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(253, 208, 171); 
 }
-
+/*Change app color*/
 .App-link {
   color: #203f47;
 }
